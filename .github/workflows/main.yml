@@ -13,4 +13,3 @@ jobs:
         host: ftp.viascrucis.com.br
         user: viascrucis1
         password: Projetoviacrusis@2024
-        localDir: "dist"
